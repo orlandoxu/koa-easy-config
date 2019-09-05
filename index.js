@@ -17,4 +17,4 @@ function loadConfig(path) {
   return cfg;
 }
 
-module.exports = cfg;
+module.exports = loadConfig;
