@@ -1,6 +1,6 @@
 {
   "name": "koa-easy-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Config with NODE_ENV",
   "main": "index.js",
   "scripts": {
